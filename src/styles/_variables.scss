@@ -1,8 +1,15 @@
 :root {
   --font-family: 'Montserrat', sans-serif;
- --primary: oklch(0.769 0.188 70.08);
+  --primary: oklch(0.769 0.188 70.08);
+  --primary-hover: oklch(0.555 0.163 48.998);
+  --light: oklch(0.924 0.12 95.746);
+  --gray-100: oklch(0.869 0.022 252.894);
+  --gray-700: oklch(0.208 0.042 265.755);
   --text-color: #111010;
   --success: oklch(0.532 0.157 131.589);
   --danger: oklch(0.505 0.213 27.518);
+
+  --border: 1px solid var(--gray-100);
+  --border-radius: 24px;
 
 }
