@@ -1,0 +1,21 @@
+body {
+  font-family: var(--font-family);
+  font-optical-sizing: auto;
+  color: var(--text-color);
+}
+
+.btn {
+  color: var(--btn-color);
+}
+
+.btn-primary {
+  color: var(--btn-primary-color);
+}
+
+.btn-danger {
+  color: var(--btn-danger-color);
+}
+
+.btn-success {
+  color: var(--btn-success-color);
+}
