@@ -10,7 +10,7 @@ import {CocktailsComponent} from './components/cocktails/cocktails.component';
   imports: [HeaderComponent, FooterComponent, CocktailsComponent],
   template: `
     <app-header  />
-    <app-cocktails  class="flex-auto"/>
+    <app-cocktails class="flex-auto"/>
     <app-footer />
   `,
   styles: `

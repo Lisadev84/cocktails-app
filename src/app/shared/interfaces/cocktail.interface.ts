@@ -1,4 +1,4 @@
-interface Cocktail {
+export interface Cocktail {
   image: string;
   name: string;
   description: string;
